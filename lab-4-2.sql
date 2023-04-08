@@ -25,3 +25,4 @@
 -- | Ian        | Happ      |
 
 
+select players.first_name and players.last_name

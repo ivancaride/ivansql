@@ -14,4 +14,6 @@
 -- | 2020 | 30       |
 -- +------+----------+
 
+select year, COUNT (name) from teams group by year 
+
 
