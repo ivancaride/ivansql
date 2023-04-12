@@ -17,3 +17,4 @@
 select year, COUNT (name) from teams group by year 
 
 
+
